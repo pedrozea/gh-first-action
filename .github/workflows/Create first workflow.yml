@@ -8,5 +8,5 @@ jobs:
         run: echo "Hello World!"
       - name: Print goodbye
         run: |
-          echo: "Completed"
+          echo "Completed"
           echo "Good bye!"
